@@ -21,6 +21,8 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DesiBoX.DeSi TV Urban Desi Musix [1080p]
 http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DesiBoX.DeSi TV Urban Desi Musix [1080p LINK 2]
+https://live.prd.dlive.tv/hls/live/desibox.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DESI CHANNEL [400p]
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DESI CHANNEL [400p]
