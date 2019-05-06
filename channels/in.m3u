@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JattTV.CoM TV Urban Desi Musix [1080p]
+http://bit.ly/livejattauk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.1yestv.com/images/logo.png" group-title="INDIA",1 Yes TV
 http://150.242.21.2/oneyes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://firstindianews.com/images/logo.png" group-title="Hindi(हिन्दी)",1st News
@@ -118,7 +120,7 @@ http://62.210.141.179:8000/ibrahim/123456/1350
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DESI CHANNEL [400p]
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DesiBoX.DeSi TV Urban Desi Musix [1080p]
-http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
+https://1-edge1-eu-west.picarto.tv/mp4/JattTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="Bhojpuri(भोजपुरी)",Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DHAMAAL [720p]
