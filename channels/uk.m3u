@@ -31,6 +31,8 @@ http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="UK",Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JattTV.CoM TV Urban Desi Musix [1080p]
+http://bit.ly/livejattauk
 #EXTINF:-1 tvg-id="" tvg-name="MTA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Mta_1_int.png" group-title="",MTA 1
 http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MTA_3.jpg/520px-MTA_3.jpg" group-title="",MTA 3
