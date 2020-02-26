@@ -234,7 +234,7 @@ http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://desibox.0hi.me/1.png" group-title="Music",JattTV
-http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
+https://dlive-live-ap.akamaized.net/dlive/transcode-77-7/jatttv/1582738033/src/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://desibox.0hi.me/1.png" group-title="Music",JattTV (HQ)
 https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="",Jay TV
